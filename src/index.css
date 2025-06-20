@@ -1,0 +1,89 @@
+.navbar{
+  display: flex;
+  justify-content: space-evenly;
+  gap:15px;
+  margin-top: 24px;
+  color: #2E2E2E;
+}
+
+header>img{
+  margin-left: 85px;
+  margin-top: 15px;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+
+header button{
+  margin-top: 21px;
+  margin-right: 85px;
+  background-color:#D01C28;
+  color: white;
+  width: 75px;
+  height: 31px;
+
+}
+
+.container-1{
+  display: flex;
+  flex-direction: column;
+}
+
+.container-1 > h1{
+  font-size: 80px;
+  line-height: 0px;
+  letter-spacing: 0;
+  margin-left:155px;
+  font-weight: bolder;
+}
+
+
+.container-2{
+  margin-left: 155px;
+  width: 404px;
+  height: 91px;
+  font-size: 16px;
+
+}
+
+.container-3{
+  width: 331px;
+  height: 41px;
+  margin-left: 155px;
+  margin-top: 10px;
+}
+
+.container-3 >button{
+  width: 151px;
+  height: 41px;
+  font-size: 24px;
+}
+
+.button1{
+  background-color: #D01C28;
+  color: white;
+  margin-right:25px;
+}
+
+.button2{
+  background-color: white;
+  color: gray;
+}
+
+.container-4{
+  color: gray;
+  margin-left: 155px;
+}
+
+main{
+  display: flex;
+}
+
+.container-5{
+  margin-top: 50px;
+  margin-left:30px;
+}
